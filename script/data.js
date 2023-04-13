@@ -1,6 +1,6 @@
 export default [
   {
-    name: 'Multi-Post Stories',
+    name: 'Creativity and craftsmanship of our people and serves as a symbol of our cultural identity.',
     description:
       "A daily selection of privately personalized reads; no accounts or sign-ups required. This has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a standard dummy text.",
     image: './images/culture/taba4.jpg',
