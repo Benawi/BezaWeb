@@ -12,7 +12,7 @@ export default [
   {
     name: 'ጣባ - Taba',
     description:
-      "መጀመሪያ የሸክላ አፈር በውሃ እንዲቦካ ይደረጋል ፡፡ ጭቃው እንደተቦካ ከታጭ ከመቀመጫ በመጀመር ጭቃውን በማድቦልቦልና በማጎድ ከታች ወደ ላይ ጣባ አሁን ላይ ያለው ቅርፅ ይዞ ይሰራል :: -",
+      "It is a locally made plate from clay, which is used for serving one of the favorite foods for ethiopians, kitfo. Doesn't include the top cover on the taba.-",
     image: './images/culture/tabl.jpg',
     technologies: [],
     deployment: 'https://www.google.com',
@@ -50,9 +50,9 @@ export default [
   },
 
   {
-    name: 'Product Name:',
+    name: 'ጣባ - Taba',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "It is a locally made plate from clay, which is used for serving one of the favorite foods for ethiopians, kitfo. Doesn't include the top cover on the taba.",
     image: './images/culture/taba5.jpg',
     technologies: [],
     deployment: 'https://www.google.com',
