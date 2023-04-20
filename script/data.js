@@ -40,9 +40,9 @@ export default [
   },
 
   {
-    name: 'Product Name',
+    name: 'Product Name: ጀበና - jebena',
     description:
-      "Detail about product will be written here Detail about product will be written hereDetail about product will be written here",
+      " በሸክላ የተሠራ ባህላዊ ቡና የሚፈላበት መሣሪያ ጀበን (ጀበና) በመባል ይታወቃል፡፡ A traditional coffee brewing device made of clay is known as jebena",
     image: './images/culture/jebena.jpg',
     technologies: [],
     deployment: 'https://www.google.com',
