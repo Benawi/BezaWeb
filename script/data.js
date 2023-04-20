@@ -10,9 +10,9 @@ export default [
   },
 
   {
-    name: 'Product Name: Taba',
+    name: 'ጣባ - Taba',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "መጀመሪያ የሸክላ አፈር በውሃ እንዲቦካ ይደረጋል ፡፡ ጭቃው እንደተቦካ ከታጭ ከመቀመጫ በመጀመር ጭቃውን በማድቦልቦልና በማጎድ ከታች ወደ ላይ ጣባ አሁን ላይ ያለው ቅርፅ ይዞ ይሰራል :: -",
     image: './images/culture/tabl.jpg',
     technologies: [],
     deployment: 'https://www.google.com',
@@ -20,9 +20,9 @@ export default [
   },
 
   {
-    name: 'Product Name: ',
+    name: 'ጣባ - Taba ',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "መጀመሪያ የሸክላ አፈር በውሃ እንዲቦካ ይደረጋል ፡፡ ጭቃው እንደተቦካ ከታጭ ከመቀመጫ በመጀመር ጭቃውን በማድቦልቦልና በማጎድ ከታች ወደ ላይ ጣባ አሁን ላይ ያለው ቅርፅ ይዞ ይሰራል ::",
     image: './images/culture/tab2.jpg',
     technologies: [],
     deployment: 'https://www.google.com',
@@ -40,7 +40,7 @@ export default [
   },
 
   {
-    name: 'Product Name: ጀበና - jebena',
+    name: 'ጀበና - Jebena',
     description:
       " በሸክላ የተሠራ ባህላዊ ቡና የሚፈላበት መሣሪያ ጀበን (ጀበና) በመባል ይታወቃል፡፡ A traditional coffee brewing device made of clay is known as jebena",
     image: './images/culture/jebena.jpg',
@@ -56,7 +56,7 @@ export default [
     image: './images/culture/taba5.jpg',
     technologies: [],
     deployment: 'https://www.google.com',
-    source: '',
+    source: '#',
   },
 
   {
@@ -66,6 +66,36 @@ export default [
     image: './images/culture/wenber.jpg',
     technologies: [],
     deployment: 'https://www.google.com',
-    source: '',
+    source: '#',
   },
+
+  {
+    name: 'Product Name:',
+    description:
+      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+    image: './images/culture/tabaoch.jpg',
+    technologies: [],
+    deployment: 'https://www.google.com',
+    source: '#',
+  },
+  {
+    name: 'Product Name:',
+    description:
+      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+    image: './images/culture/mankiya.png',
+    technologies: [],
+    deployment: 'https://www.google.com',
+    source: '#',
+  },
+  {
+    name: 'Product Name:',
+    description:
+      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+    image: './images/culture/tabamesob.png',
+    technologies: [],
+    deployment: 'https://www.google.com',
+    source: '#',
+  },
+  
+ 
 ];
