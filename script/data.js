@@ -88,7 +88,7 @@ export default [
     source: '#',
   },
   {
-    name: 'Product Name:',
+    name: 'ጣባ',
     description:
       "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
     image: './images/culture/tabamesob.png',
