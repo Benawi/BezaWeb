@@ -39,7 +39,8 @@ button:disabled {
 
 .profile {
   background: url("./images/illustration-about-me-mobile.png") #1c1a19 no-repeat;
-  background-position: 100% 25%;
+  background-position: 100% 120%;
+  
 }
 
 .skills {
