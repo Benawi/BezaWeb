@@ -452,6 +452,17 @@ footer {
     flex-direction: column;
     justify-content: space-between;
   }
+  .google-map {
+   
+    position: fixed;
+  }
 
+  .google-map iframe {
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    
+  }
   /* popup  */
 }
