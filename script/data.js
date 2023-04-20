@@ -2,7 +2,7 @@ export default [
   {
     name: 'Creativity and craftsmanship of our people and serves as a symbol of our cultural identity.',
     description:
-      "A daily selection of privately personalized reads; no accounts or sign-ups required. This has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a standard dummy text.",
+      " A household utensils had been predominantly Locally produced either by special local artisans such as potters, woodworkers, tanners, and iron-smiths or by odium people. Clay-made objects such as bitter, (bowls of various sizes and quality), Enjapa (containers used to drink water, milk, or traditional drinks such as Seher) and Tiwa (small containers used to drink Seher) were traditionally hung on the walls in the houses.",
     image: './images/culture/taba4.jpg',
     technologies: [],
     deployment: 'https://www.google.com',
