@@ -32,7 +32,7 @@ export default [
   {
     name: 'Product Name:',
     description:
-      "Detail about product will be written here Detail about product will be written hereDetail about product will be written here",
+      "Space SpaceSpace",
     image: './images/culture/sefed.jpg',
     technologies: [],
     deployment: '#',
@@ -62,7 +62,7 @@ export default [
   {
     name: 'Product Name:',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "Detail about product will be written here",
     image: './images/culture/wenber.jpg',
     technologies: [],
     deployment: '#',
@@ -72,7 +72,7 @@ export default [
   {
     name: 'Product Name:',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "Detail about product will be written here",
     image: './images/culture/tabaoch.jpg',
     technologies: [],
     deployment: '#',
@@ -81,7 +81,7 @@ export default [
   {
     name: 'Product Name:',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "Detail about product will be written here",
     image: './images/culture/mankiya.png',
     technologies: [],
     deployment: '#',
@@ -90,7 +90,7 @@ export default [
   {
     name: 'ጣባ',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "Detail about product will be written here",
     image: './images/culture/tabamesob.png',
     technologies: [],
     deployment: '#',
@@ -99,7 +99,7 @@ export default [
   {
     name: '.....',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "Detail about product will be written here",
     image: './images/culture/new/photo_1.jpg',
     technologies: [],
     deployment: '#',
@@ -108,7 +108,7 @@ export default [
   {
     name: '.....',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "Detail about product will be written here",
     image: './images/culture/new/photo_2.jpg',
     technologies: [],
     deployment: '#',
@@ -117,7 +117,7 @@ export default [
   {
     name: '.....',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "Detail about product will be written here",
     image: './images/culture/new/photo_3.jpg',
     technologies: [],
     deployment: '#',
@@ -126,7 +126,7 @@ export default [
   {
     name: '.....',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "Detail about product will be written here",
     image: './images/culture/new/photo_4.jpg',
     technologies: [],
     deployment: '#',
@@ -135,7 +135,7 @@ export default [
   {
     name: '.....',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "Detail about product will be written here",
     image: './images/culture/new/photo_5.jpg',
     technologies: [],
     deployment: '#',
@@ -144,7 +144,7 @@ export default [
   {
     name: '.....',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "Detail about product will be written here",
     image: './images/culture/new/photo_6.jpg',
     technologies: [],
     deployment: '#',
@@ -153,7 +153,7 @@ export default [
   {
     name: '.....',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "Detail about product will be written here",
     image: './images/culture/new/photo_7.jpg',
     technologies: [],
     deployment: '#',
@@ -162,7 +162,7 @@ export default [
   {
     name: '.....',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "Detail about product will be written here",
     image: './images/culture/new/photo_8.jpg',
     technologies: [],
     deployment: '#',
@@ -171,7 +171,7 @@ export default [
   {
     name: '.....',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "Detail about product will be written here",
     image: './images/culture/new/photo_9.jpg',
     technologies: [],
     deployment: '#',
@@ -180,7 +180,7 @@ export default [
   {
     name: '.....',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "Detail about product will be written here",
     image: './images/culture/taba4.jpg',
     technologies: [],
     deployment: '#',
@@ -189,7 +189,7 @@ export default [
   {
     name: '.....',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "Detail about product will be written here",
     image: './images/culture/new/photo_1_2.jpg',
     technologies: [],
     deployment: '#',
@@ -198,7 +198,7 @@ export default [
   {
     name: '.....',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "Detail about product will be written here",
     image: './images/culture/new/photo_2_2.jpg',
     technologies: [],
     deployment: '#',
@@ -207,7 +207,7 @@ export default [
   {
     name: '.....',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "Detail about product will be written here",
     image: './images/culture/new/photo_3_2.jpg',
     technologies: [],
     deployment: '#',
@@ -216,7 +216,7 @@ export default [
   {
     name: '.....',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "Detail about product will be written here",
     image: './images/culture/new/photo_4_2.jpg',
     technologies: [],
     deployment: '#',
@@ -225,7 +225,7 @@ export default [
   {
     name: '.....',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "Detail about product will be written here",
     image: './images/culture/new/photo_5_2.jpg',
     technologies: [],
     deployment: '#',
@@ -234,7 +234,7 @@ export default [
   {
     name: '.....',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "Detail about product will be written here",
     image: './images/culture/new/photo_6_2.jpg',
     technologies: [],
     deployment: '#',
@@ -243,7 +243,7 @@ export default [
   {
     name: '.....',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "Detail about product will be written here",
     image: './images/culture/new/photo_7_2.jpg',
     technologies: [],
     deployment: '#',
@@ -252,7 +252,7 @@ export default [
   {
     name: '.....',
     description:
-      "Detail about product will be written hereDetail about product will be written hereDetail about product will be written here",
+      "Detail about product will be written here",
     image: './images/culture/photo_2feature.jpg',
     technologies: [],
     deployment: '#',
