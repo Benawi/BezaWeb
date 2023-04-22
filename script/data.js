@@ -32,7 +32,7 @@ export default [
   {
     name: 'Product Name:',
     description:
-      "Space SpaceSpace",
+      "Detail about product will be written here",
     image: './images/culture/sefed.jpg',
     technologies: [],
     deployment: '#',
